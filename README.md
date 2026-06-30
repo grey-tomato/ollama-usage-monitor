@@ -43,7 +43,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/kendrick-gs/ollama-usage-monitor.git
+git clone https://github.com/grey-tomato/ollama-usage-monitor.git
 cd ollama-usage-monitor
 ./build.sh
 ```
