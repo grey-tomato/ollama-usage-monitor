@@ -1,0 +1,47 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Compiled Swift binary
+OllamaMenuBar
+
+# Local runtime files
+ollama_metrics.db
+ollama_monitor.log
+ollama_menu_bar.log
+
+# Scraped HTML snapshots (dev only)
+settings_page.html
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode artifacts
+*.xcuserstate
+DerivedData/
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Flask / Python cache
+instance/
+.webassets-cache
+
+# Local static/templates (leftover dev folders)
+static/
+templates/
